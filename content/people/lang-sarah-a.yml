@@ -1,2 +1,10 @@
-firstName: Sarah A.
+firstName: Sarah
 lastName: Lang
+title: Dr.
+description: "Sarah A. Lang is a postdoctoral fellow at the Department “Centre
+  for Information Modelling” at the University of Graz, working predominantly on
+  early modern history of science (alchemy) and its practices of secrecy. "
+avatar: images/lang.jpg
+email: sarah.lang@uni-graz.at
+website: https://sarahalang.com/
+orcid: https://orcid.org/0000-0002-4618-9481
